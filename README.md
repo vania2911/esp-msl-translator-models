@@ -12,3 +12,5 @@ The model card of M1 is available at: [https://huggingface.co/VaniLara/esp-to-ls
 If you want to use the Colab you will need to create an access token, use your own google drive account and create a repo on hugging face.
 
 Model M1-split-version and Model M2-split-version is the dataset splitted in 80% training, 10% validation and 10% testing. Model cards are avilable at: https://huggingface.co/vania2911/esp-to-lsm-barto-model and https://huggingface.co/vania2911/esp-to-lsm-model-split.
+
+Translations M1 and M2 contain the reference and predicted translations for each model.
